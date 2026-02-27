@@ -5,7 +5,7 @@
 }
 .header{
   flex: 15%; 
-  background-color: PaleTurquoise;
+  background-color: steelblue;
 }
 .menu{
   flex: 5%;

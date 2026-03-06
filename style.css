@@ -4,6 +4,7 @@
   height: 100vh; 
 }
 .header{
+  background: url ("images/ChatGPT Image 13_44_35 6 thg 3, 2026.png") center / 100%
   flex: 15%; 
   background-color: steelblue;
 }
